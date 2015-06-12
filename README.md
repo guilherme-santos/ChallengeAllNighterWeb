@@ -12,7 +12,7 @@ Você deverá usar este repositório como o repo principal do projeto, i.e., tod
 =====================
 #### O Desafio
 
-O desafio que você deverá desenvolver é o ChallengeAndroidWeb, nele voce deverá solucionar um problema de simples implementação. Voce trabalhará com as duas partes (Front-end, Back-end), para a parte de Back-end voce poderá utilizar NodeJS ou Ruby on Rails fica a sua escolha.
+O desafio que você deverá desenvolver é o ChallengeAllNighterWeb, nele voce deverá solucionar um problema de simples implementação. Voce trabalhará com as duas partes (Front-end, Back-end), para a parte de Back-end voce poderá utilizar NodeJS ou Ruby on Rails fica a sua escolha.
 
 O desafio deverá funcionar nos principais navegadores da Web (Chrome, Firefox, Safari). Considere que o testaremos em devices, desktops, tablets etc. Sugerimos que tente ao máximo elaborar um design responsivo.
 

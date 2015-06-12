@@ -1,4 +1,4 @@
-# ChallengeAndroidWeb
+# ChallengeAllNighterWeb
 
 [![](http://i.imgur.com/A0PZOKN.png)]
 (http://www.allnighter.co/)
